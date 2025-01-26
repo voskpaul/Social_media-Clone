@@ -132,5 +132,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For questions or support, please contact:
-- **Your Name**: [paulriemii@gmail.com](mailto:paulriemii@gmail.com)
+- **My Name**: [paulriemii@gmail.com](mailto:paulriemii@gmail.com)
 - **GitHub**: [https://github.com/voskpaul](https://github.com/voskpaul)
